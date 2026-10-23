@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1d962ffc-0465-4b1f-894c-6d69dac154ff",
+    "name": "Deepthi sree",
+    "email": "2500032686@kluniversity.in",
+    "salt": "665f95ccaf94d7fba047e90530ceaca9",
+    "passwordHash": "c46c5d6c16c660c9999bee8fcd8d8e669a74aa99f9ef07ed2e06400a8fc75882014c543d96761532b9bf5ee7ab8edc617e39f2034614752061467a919537410b",
+    "createdAt": "2026-10-23T17:59:07.315Z"
+  },
+  {
+    "id": "103198ee-a8d1-46e8-af76-80e5f4d98aef",
+    "name": "phani",
+    "email": "phani4n@gmail.com",
+    "salt": "9cc4de26f068cb98669544399fbfa313",
+    "passwordHash": "49059cf9ccbeb88eac482b85311ab58345fe3ce8c1a23a8f3afc0ef972eda38664672c922bea9e4d1f0c47343c5aac0dae9c89f703a1d1cdd6a24759a61a6980",
+    "createdAt": "2026-10-23T18:08:16.700Z"
+  }
+]

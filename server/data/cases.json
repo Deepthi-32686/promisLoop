@@ -1,0 +1,152 @@
+[
+  {
+    "id": "PL-23AF4F",
+    "customerId": "103198ee-a8d1-46e8-af76-80e5f4d98aef",
+    "customerName": "phani",
+    "customerEmail": "phani4n@gmail.com",
+    "product": "laptop display damage",
+    "orderRef": "Not provided",
+    "issueType": "Damaged item",
+    "description": "the laptop was not in a condition of opening like the display was falling a part",
+    "status": "Action needed",
+    "deliveryDate": "2026-10-23",
+    "requestedDeadline": null,
+    "vulnerability": "none",
+    "priorContacts": 0,
+    "reopenCount": 0,
+    "evidence": [],
+    "attachments": [],
+    "messages": [],
+    "feedback": null,
+    "history": [
+      {
+        "at": "2026-10-23T18:11:47.515Z",
+        "text": "Case submitted by customer."
+      }
+    ],
+    "createdAt": "2026-10-23T18:11:47.515Z",
+    "updatedAt": "2026-10-23T18:11:47.515Z",
+    "nextAction": "Take clear photos of the damaged product and packaging, then review replacement or return options.",
+    "firstResponseDeadline": "2026-10-24T18:11:47.515Z",
+    "resolutionDeadline": "2026-10-28T18:11:47.515Z",
+    "slaDeadline": "2026-10-28T18:11:47.515Z"
+  },
+  {
+    "id": "PL-1042",
+    "product": "Wireless headphones",
+    "orderRef": "DEMO-4821",
+    "issueType": "Damaged item",
+    "description": "The left earcup arrived cracked.",
+    "status": "Waiting for Customer",
+    "impact": "service",
+    "vulnerability": "none",
+    "priorContacts": 0,
+    "reopenCount": 0,
+    "deliveryDate": "2026-10-21",
+    "requestedDeadline": "2026-10-25",
+    "nextAction": "Take clear photos of the damaged earcup and packaging, then review the retailer's return or replacement options.",
+    "evidence": [
+      "Customer description recorded"
+    ],
+    "history": [
+      {
+        "at": "2026-10-21T10:00:00.000Z",
+        "text": "Package marked as delivered (demo data)."
+      },
+      {
+        "at": "2026-10-22T08:30:00.000Z",
+        "text": "Customer reported a cracked left earcup."
+      },
+      {
+        "at": "2026-10-23T07:38:00.000Z",
+        "text": "Status changed to Waiting for customer."
+      },
+      {
+        "at": "2026-10-23T18:04:38.810Z",
+        "text": "Status changed to In Progress by Support Agent."
+      },
+      {
+        "at": "2026-10-23T18:04:48.988Z",
+        "text": "First customer-visible response sent by Support Agent; first-response SLA recorded."
+      },
+      {
+        "at": "2026-10-23T18:06:35.073Z",
+        "text": "Status changed to Waiting for Customer by Support Agent."
+      }
+    ],
+    "createdAt": "2026-10-22T08:30:00.000Z",
+    "updatedAt": "2026-10-23T18:06:35.073Z",
+    "messages": [
+      {
+        "id": "13414c36-9aa1-424d-9068-bc5b36a395a1",
+        "senderId": "support-agent-1",
+        "senderName": "Support Agent",
+        "role": "agent",
+        "visibility": "customer",
+        "text": "Hello there,\n\nThank you for reaching out regarding your Laptop battery pack (Case PL-1043). We are currently investigating your report. To help us expedite your resolution, could you please provide: Clear photographs of damaged product and carrier shipping label?\n\nWe will update you as soon as our review is complete.\n\nBest regards,\nPromiseLoop Support Team",
+        "at": "2026-10-23T18:04:48.988Z"
+      }
+    ],
+    "firstResponseAt": "2026-10-23T18:04:48.988Z"
+  },
+  {
+    "id": "PL-1043",
+    "product": "Laptop battery pack",
+    "orderRef": "DEMO-4900",
+    "issueType": "Damaged item",
+    "description": "The replacement battery is overheating and smells burnt while charging. Possible fire hazard.",
+    "status": "Action needed",
+    "impact": "safety",
+    "vulnerability": "high",
+    "priorContacts": 2,
+    "reopenCount": 0,
+    "deliveryDate": "2026-10-22",
+    "requestedDeadline": "2026-11-10",
+    "nextAction": "Stop using the product immediately, photograph the swelling/damage, and escalate as a safety hazard before any replacement.",
+    "evidence": [
+      "Customer photo description: swelling near hinge"
+    ],
+    "history": [
+      {
+        "at": "2026-10-22T09:00:00.000Z",
+        "text": "Package marked as delivered (demo data)."
+      },
+      {
+        "at": "2026-10-23T06:15:00.000Z",
+        "text": "Customer reported battery overheating and a burnt smell."
+      }
+    ],
+    "createdAt": "2026-10-23T06:15:00.000Z",
+    "updatedAt": "2026-10-23T06:15:00.000Z"
+  },
+  {
+    "id": "PL-1041",
+    "product": "USB-C hub",
+    "orderRef": "DEMO-4770",
+    "issueType": "Missing item",
+    "description": "The box arrived, but the power adapter was missing. Customer asked for a replacement within two hours.",
+    "status": "Waiting for customer",
+    "impact": "service",
+    "vulnerability": "none",
+    "priorContacts": 0,
+    "reopenCount": 0,
+    "deliveryDate": "2026-10-20",
+    "requestedDeadline": "2026-10-23",
+    "nextAction": "Check all packaging compartments and compare the contents with the product listing. Add a photo if the adapter is still missing.",
+    "evidence": [
+      "Package contents checklist started"
+    ],
+    "history": [
+      {
+        "at": "2026-10-20T11:15:00.000Z",
+        "text": "Package marked as delivered (demo data)."
+      },
+      {
+        "at": "2026-10-21T09:00:00.000Z",
+        "text": "Customer reported a missing power adapter."
+      }
+    ],
+    "createdAt": "2026-10-21T09:00:00.000Z",
+    "updatedAt": "2026-10-21T09:00:00.000Z"
+  }
+]
